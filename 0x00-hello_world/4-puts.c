@@ -1,5 +1,6 @@
 /**
 *main-using puts to print a simple string with a new line
+*Return:0
 */
 
 #include <stdio.h>
