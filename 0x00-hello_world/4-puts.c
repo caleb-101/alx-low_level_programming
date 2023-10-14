@@ -1,5 +1,5 @@
 /**
-*main-using puts to print a simple string with a new line     
+*main-using puts to print a simple string with a new line
 */
 
 #include <stdio.h>
