@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
+/*search a string*/
 /**
 *_strpbrk - The _strpbrk() 
 * occurrence in the string s of any of the bytes in
