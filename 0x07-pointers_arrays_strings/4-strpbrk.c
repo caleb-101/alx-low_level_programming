@@ -6,7 +6,6 @@
 *_strpbrk - The _strpbrk() 
 * occurrence in the string s of any of the bytes in
 *the string accept
-*
 *@s: input 
 *@accept: input 
 *
@@ -25,5 +24,5 @@ return (s + i);
 }
 }
 
-return (NULL);
+return (0);
 }
