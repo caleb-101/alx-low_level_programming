@@ -3,11 +3,11 @@
 
 /*search a string*/
 /**
-*_strpbrk - The _strpbrk() 
+*_strpbrk - The _strpbrk()
 * occurrence in the string s of any of the bytes in
 *the string accept
-*@s: input 
-*@accept: input 
+*@s: input
+*@accept: input
 *
 *Return: Always 0
 */
